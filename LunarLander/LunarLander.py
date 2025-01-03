@@ -185,7 +185,4 @@ right = False
  
 
 
-
-
-
-
+oioij
