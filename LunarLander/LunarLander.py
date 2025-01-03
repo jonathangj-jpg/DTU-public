@@ -5,7 +5,7 @@ import os
 os.chdir('/Users/magnuslarsen/Documents/DTU/Python/Intro til KID/LunarLander')
 import pygame
 import numpy as np
-
+hej med dig
 class Rocket(pygame.sprite.Sprite):
     # Rocket images    
     filenames = ['rocket0.png', 'rocket1.png', 'rocket0l.png', 'rocket1l.png', 
